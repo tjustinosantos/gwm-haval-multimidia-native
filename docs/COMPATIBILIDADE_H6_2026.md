@@ -8,6 +8,8 @@ Este repositório é uma referência de diagnóstico da central antiga. **Não c
 
 A adaptação do aplicativo relacionado `bobaoapae/haval-app-tool-multimidia` (Impulse/HavalShisuku) envolve pelo menos acesso ao sistema, interfaces dos serviços e descoberta dos displays. O código consultado depende explicitamente da plataforma antiga. Não foi encontrado suporte confirmado ao Coffee OS 3 nas fontes examinadas; isso não demonstra impossibilidade técnica.
 
+A [pesquisa pública complementar](PESQUISA_COFFEE_OS3.md) reúne projetos adicionais, referências oficiais sobre V3.5 e pistas de outros mercados. Ela não encontrou um dump identificado da nova central brasileira. V3.5 aparece em documentos da GWM tanto com Coffee OS 2 quanto com Coffee OS 3, portanto não identifica o firmware por si só.
+
 ## Evidências verificadas
 
 Base deste fork: commit [`e246a3de5c7253c0942db3a9a9bed6554b47e75b`](https://github.com/ipsBruno/gwm-haval-multimidia-native/tree/e246a3de5c7253c0942db3a9a9bed6554b47e75b), de 23/08/2024. São cinco arquivos versionados: `README.md`, `getprops.txt`, `packages.txt`, `dumpsys.txt` e `apks/readme.md`. A pasta `apks` contém somente esse README de dois bytes; não há APKs nessa revisão.
